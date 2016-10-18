@@ -1,15 +1,16 @@
 # Werewolf-Game
 
-Excercise in Procedural Ruby logic. 
+## Excercise in Procedural Ruby logic. 
 
 The purpose of the game is for the player to locate the villagerss who are actually wolves.
 The player wins the game if they locate all the wolves before the wolves can out number the villagers.
 
+### UPDATES
 10/18/2016 - Initialized the repository and programmed the beginning sequence of the game
 
 
 
-TO DO LIST
+### TO DO LIST
 - Not sure if the #assign_roles method is working properly, need to write test to make sure that
   the size of the @wolf array is equal to @num_of_wolves
 
