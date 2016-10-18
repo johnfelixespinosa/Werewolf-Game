@@ -2,7 +2,7 @@
 
 ## Excercise in Procedural Ruby logic. 
 
-The purpose of the game is for the player to locate the villagerss who are actually wolves.
+The purpose of the game is for the player to locate the villagers who are actually wolves.
 The player wins the game if they locate all the wolves before the wolves can out number the villagers.
 
 ### UPDATES
