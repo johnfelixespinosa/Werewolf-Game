@@ -22,10 +22,10 @@ class WerewolfGame
     if player_input > 10
       puts "Too many players please try again..."
       gamestart
-    elsif player_input <= 1
+    elsif player_input < 1
       puts "Ok werewolf, please try again..."
       gamestart
-    elsif player_input > 1 && player_input < 10
+    else
       puts "Ok, we are playing with #{player_input} players."
       @num_of_players = player_input
       @num_of_players.times do 
